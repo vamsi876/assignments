@@ -1,7 +1,4 @@
 Create a restaurant service page by using your knowledge of HTML and CSS.
-
 The service page will contain Header with tabs containing information like home, menu and others.
-
 The header will contain contact information through gmail and other social media information.
-
 The service page may also contain images related to the main product of the restaurant and some other information.
